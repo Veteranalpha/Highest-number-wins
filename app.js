@@ -18,7 +18,5 @@ function prompt () {
         alert('No winner ☹☹')
        }
 }
-window.setTimeout( function() {
-     window.location.reload();
-    }, 7000);
+
 
